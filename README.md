@@ -1,4 +1,6 @@
-# opentelemetry-jaeger-exporter
+[![Example Code header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Example_Code.png)](https://opensource.newrelic.com/oss-category/#example-code)
+
+# opentelemetry-jaeger-exporter-java
 
 As with any technology, in order to get to grips with OpenTelemetry there is a small amount of terminology that it is useful to know:
 
@@ -10,3 +12,6 @@ As with any technology, in order to get to grips with OpenTelemetry there is a s
   * SUPER IMPORTANT! [W3C Trace-Context HTTP Propagator](https://w3c.github.io/trace-context/)
   * [W3C Correlation-Context HTTP Propagator](https://w3c.github.io/correlation-context/)
   * [B3 Zipkin HTTP Propagator](https://github.com/openzipkin/b3-propagation)
+
+
+![](https://github.com/andrew-lozoya/opentelemetry-jeager-exporter-java/blob/main/Resources/2020-10-10_13-36-25.png)
